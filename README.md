@@ -1,6 +1,7 @@
 ## Greetings
--Currently Learning Python 
-##Dont expect to get far, but we shall see.
+Currently Learning Python 
+
+Dont expect to get far, but we shall see.
 
 <!--
 **The-Vanquished/The-Vanquished** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
