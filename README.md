@@ -1,12 +1,8 @@
 #Vanquished (┬┬﹏┬┬) 
 
 Lazy programming enthusiast.
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ThyVanquished)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/YCkWXp9z)
 
-<p align="center">
-  <a href="https://twitter.com/ThyVanquished"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg" width="30" height="30" alt="Discord">
-  <a href="https://discord.gg/YCkWXp9z"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/twitter.svg" width="30" height="30" alt="Twitter">
-
-</p>
-### Current Languages:
-[<img align="center" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="center" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
