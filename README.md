@@ -1,6 +1,6 @@
 # Vanquished (┬┬﹏┬┬) 
 
-Lazy programming enthusiast.
+Lazy programming enthusiast. Might do something once in a while.
 
 ## Socials
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" height="40">](https://twitter.com/ThyVanquished) [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="40" height="40">](https://discord.com/invite/PCkWXp9z)
